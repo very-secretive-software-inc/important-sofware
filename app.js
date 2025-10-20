@@ -1,2 +1,2 @@
-vss-key-JhDfYlNiQfiTPZdfMBx56jjsLHoJ6pPwMymvDhbL
-1760951652.561406
+# Regular configuration
+1760951652.60455
