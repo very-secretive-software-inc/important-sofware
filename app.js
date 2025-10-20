@@ -1,2 +1,2 @@
-sk_live_URe5bbthmCZeezLdzqWn8MVl
-1760951648.807503
+# Regular configuration
+1760951648.847081
